@@ -1,0 +1,3 @@
+/cygdrive/d/BOSCH/QueueTest/build/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/BOSCH/QueueTest/build/CMakeFiles/runTests.dir
+/cygdrive/d/BOSCH/QueueTest/build/CMakeFiles/edit_cache.dir

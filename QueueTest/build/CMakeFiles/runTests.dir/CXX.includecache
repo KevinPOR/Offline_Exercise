@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/BOSCH/QueueTest/test_queue.cpp
+iostream
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+chrono
+-
+stdexcept
+-
+
